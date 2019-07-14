@@ -20,3 +20,8 @@ x = np.arange(9).reshape(3,-1)
 print(x)
 x = np.arange(9).reshape(-1,3)
 print(x)
+
+#LEt us create a 3D array
+
+y = np.arange(18).reshape(2,3,3)
+print(y)
